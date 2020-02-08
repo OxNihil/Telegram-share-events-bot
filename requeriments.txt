@@ -2,3 +2,4 @@ telebot
 telegram
 pyTelegramBotAPI
 telebot-calendar
+python-telegram-bot
