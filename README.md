@@ -1,4 +1,4 @@
-# Telegram Sharing Events Bot
+# Telegram Share Events Bot
 Bot para difundir alertas y eventos en canales de telegram
 
 <h3>About</h3>
